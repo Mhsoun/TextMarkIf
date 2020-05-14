@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TextMarkIf
 {
     class Program
-    {
+    {  
         static void Main(string[] args)
         {
             Console.WriteLine("Enter your mark!");
